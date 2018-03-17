@@ -17,7 +17,7 @@ object WelcomeProcessor {
 
   def process(data: util.Map[String, Object]) {
 
-    val templateOutput = new FileWriter(new File("welcome.json"))
+    val templateOutput = new FileWriter(new File("responses/welcome.json"))
 
     //val dataIn: util.Map[String, Object] = data.asJava
 

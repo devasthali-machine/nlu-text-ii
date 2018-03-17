@@ -1,0 +1,17 @@
+{
+"displayText" : "Welcome to Alexas uncle",
+"items": [
+        {
+          "id": 1,
+          "name" : "umbrella"
+        },
+        {
+          "id": 2,
+          "name" : "tv"
+        },
+        {
+          "id": 3,
+          "name" : "walkmen"
+        }
+    ]
+}
